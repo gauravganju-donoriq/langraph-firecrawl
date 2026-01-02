@@ -1,0 +1,21 @@
+# LangGraph and LangChain
+langgraph
+langchain
+langchain-google-genai
+
+# Firecrawl for web scraping
+firecrawl
+
+# FastAPI and server
+fastapi
+uvicorn[standard]
+
+# Pydantic for data validation
+pydantic
+pydantic-settings
+
+# Google Gen AI SDK (new unified SDK)
+google-genai
+
+# HTTP client
+httpx
